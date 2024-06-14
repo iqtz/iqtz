@@ -9,6 +9,11 @@
     "github": "iqtz",
      "twitter": "kamranahmedse"
   },
+  "newsletter": {
+    "showTwitterBanner": true,
+    "currentCount": "2,000",
+    "revueUsername": "roadmapsh"
+  },
   "seo": {
     "title": "iqtz",
     "description": "Blog of a Software Engineer",
