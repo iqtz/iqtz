@@ -5,5 +5,15 @@
     "name": "iqtz",
     "email": "iqtz@iqtz.dev"
   },
+  "seo": {
+    "title": "iqtz",
+    "description": "Blog of a Software Engineer",
+    "author": "iqtz",
+    "keywords": [
+      "blog",
+      "developer blog",
+      "engineering blog"
+    ]
+  },
   "cname": "iqtz.dev"
 }
