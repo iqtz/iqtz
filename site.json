@@ -5,6 +5,9 @@
     "name": "iqtz",
     "email": "iqtz@iqtz.dev"
   },
+    "social": {
+    "github": "iqtz",
+  },
   "seo": {
     "title": "iqtz",
     "description": "Blog of a Software Engineer",
